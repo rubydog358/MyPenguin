@@ -1,23 +1,21 @@
-# OlympicRings
-
-![rings](rings.png)
+# MyPenguin
 
 ## Description
-In this assignment you will write a program that displays the Olympic Rings. Your program will have about 13 lines of code and use the following functions, some more than once:
+In this assignment you will write a program that displays the a penguin-like creature. Your program should use at least 3 different shape commands which we have looked at so far, such as:
 
 * ellipse( ... )
-* size( ... )
-* noFill()
-* stroke( ... )
-* strokeWeight( ... )
+* rect( ... )
+* triangle( ... )
+* line( ... )
+* quad( ... )
 
 ## Instructions
 1. Write your code in Processing. Save your work!
 1. When you're done, come back to github and fork this repo.
-1. Update your forked version of `OlympicRings.pde`.
+1. Update your forked version of `MyPenguin.pde`.
 1. Update the header and footer text of `index.html`.
-1. Check your work at `<YourUsername>.github.io/OlympicRings`
-1. Submit that link on google classroom.
+1. Check your work at `<YourUsername>.github.io/MyPenguin`
+1. Create a pull request.
 
 ## Help
 For help on github (and the crazy words above like 'fork' and 'repo'), see the class github starter kit.
