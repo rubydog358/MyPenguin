@@ -27,4 +27,4 @@ For help on colors, use Paletton.
 All these resources are linked from the course page.
 
 ## Credit
-This assignment is based on a similar one created by [Art Simon](http://apcslowell.github.io).
+This assignment is based on a similar one created by [Daniel Shiffman](http://www.codingtrain.com).
